@@ -1,0 +1,57 @@
+﻿  main.cpp
+c:\users\otopo\source\repos\pong\pong\player.h(16): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(20): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\player.h(34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\main.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\otopo\source\repos\pong\pong\main.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\otopo\source\repos\pong\pong\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\otopo\source\repos\pong\pong\main.cpp(214): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\main.cpp(218): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\otopo\source\repos\pong\pong\main.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\otopo\source\repos\pong\pong\player.h(53): warning C4715: 'player::collision': not all control paths return a value
+  Pong.vcxproj -> C:\Users\otopo\source\repos\Pong\x64\Debug\Pong.exe
